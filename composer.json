@@ -1,0 +1,9 @@
+{
+    "name": "jannik/test",
+    "authors": [
+        {
+            "name": "Jannik"
+        }
+    ],
+    "require": {}
+}
